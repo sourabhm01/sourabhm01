@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sourabhm01
 - 👀 I’m interested in software devloper
-- 🌱 I’m currently learning compputer science
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me you can't.
 

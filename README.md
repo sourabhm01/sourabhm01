@@ -1,4 +1,4 @@
-![logo](https://github.com/sourabhm01/sourabhm01/blob/main/I%E2%80%99m%20Sourabh.png)
+![logo](https://github.com/sourabhm01/sourabhm01/blob/main/githubh%20banner.png)
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="Coder boy" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">

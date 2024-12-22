@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/sourabhsportfolio](https://bit.ly/sourabhsportfolio)
+- 👨‍💻 All of my projects are available at [[https://bit.ly/sourabhsportfolio](https://bit.ly/sourabhmportfolio)]
 
 - 📫 How to reach me **sourabhmaithani9050@gmail.com**
 

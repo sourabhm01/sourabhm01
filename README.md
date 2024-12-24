@@ -1,6 +1,6 @@
 ![logo](https://github.com/sourabhm01/sourabhm01/blob/main/githubh%20banner.png)
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">I am a data analyst from India, working with complex datasets.</h3>
 <img align="right" alt="Coder boy" width="400" src="https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif">
 
 - 🌱 I’m currently learning **Python**
@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **sourabhmaithani9050@gmail.com**
 
-<h1 align="center">Hi 👋, I'm Sourabh</h1>
-<h3 align="center">I am a data analyst from India, working with complex datasets.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourabhm01&label=Profile%20views&color=0e75b6&style=flat" alt="sourabhm01" /> </p>
 
@@ -29,4 +28,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sourabhm01&show_icons=true&locale=en&layout=compact" alt="sourabhm01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sourabhm01&show_icons=true&locale=en" alt="sourabhm01" /></p>
-[![An image of @sourabhm01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sourabhm01)](https://holopin.io/@sourabhm01)
+
